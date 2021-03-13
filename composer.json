@@ -1,0 +1,22 @@
+{
+    "require":{
+        "name": "mpdf/mpdf",
+        "version": " ^8.0",
+        "type": "library",
+        "keywords": ["php", "pdf", "utf-8"],
+        "homepage": "http://www.mpdf1.com",
+        "license": ["GPL"],
+        "authors": [
+            {
+                 "name": "Ian Back"
+            }
+        ],
+        "require": {
+            "php": ">=7.0.6",
+            "ext-mbstring": "*"
+        },
+        "autoload": {
+            "classmap": ["mpdf.php"]
+        }
+    }
+}
