@@ -75,6 +75,7 @@
         <a href="#" class="a_home_page">snapchat</a>
         </li>
     </ul>
+  <h1>welcom git hub</h1>
 </div>
 
 <script src="../js/jquery-3.5.1.min.js"></script>
